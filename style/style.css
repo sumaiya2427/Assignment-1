@@ -120,3 +120,47 @@ body {
 .satelite-image {
   border-radius: 20px;
 }
+.taka {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+.fast-taka {
+  background-color: #fffdfd;
+  border-radius: 10px;
+  padding: 35px 80px;
+}
+.second-taka {
+  background-color: #c6e4d6;
+  border-radius: 10px;
+  padding: 35px 80px;
+}
+.thard-taka {
+  background-color: #fffdfd;
+  border-radius: 10px;
+  padding: 35px 80px;
+}
+.fourth-taka {
+  background-color: #fffdfd;
+  border-radius: 10px;
+  padding: 35px 80px;
+}
+.donate-contante {
+  font-size: 25px;
+  text-align: center;
+}
+.amount {
+  text-align: center;
+}
+.amount input {
+  width: 90%;
+  background-color: #f9fbff;
+  text-align: center;
+  height: 55px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #f5f5f5;
+  /* border: 1px solid black; */
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none;
+}
