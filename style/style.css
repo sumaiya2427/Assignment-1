@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito Sans", serif;
+}
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.hero-section {
+  background-color: #c6e4d6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.subtitle {
+  color: #6a7972;
+}
+.title {
+  font-size: 60px;
+  font-weight: bold;
+  line-height: 54px;
+}
+.explore-btn {
+  background-color: #006a50;
+  color: white;
+  padding: 13px 25px;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 15px;
+  font-size: 18px;
+}
+.hero-image img {
+  width: 425px;
+  padding: 43px;
+}
+.vision-card-1 {
+  background-color: #d5e1f5;
+  padding: 30px;
+  border-radius: 15px;
+}
+.vision-all-card {
+  display: flex;
+  gap: 20px;
+}
+.btn-blue {
+  background-color: #5490f5;
+  padding: 5px 11px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: medium;
+  margin-top: 25px;
+}
+.vision-card-2 {
+  background-color: #c6e4d6;
+  padding: 30px;
+  border-radius: 15px;
+}
+.vision-card-3 {
+  background-color: #f7ebcf;
+  padding: 30px;
+  border-radius: 15px;
+}
+.btn-green {
+  background-color: #09a15c;
+  padding: 5px 11px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: medium;
+  margin-top: 25px;
+}
+.btn-orange {
+  background-color: #ffc239;
+  padding: 5px 11px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: medium;
+  margin-top: 25px;
+}
+.hed {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+.pragraph-text {
+  color: #948d8d;
+}
+.vision-content {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.news-section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.satelite-section {
+  display: flex;
+  gap: 20px;
+}
