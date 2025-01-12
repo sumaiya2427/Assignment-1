@@ -182,3 +182,40 @@ body {
 .donate {
   margin-bottom: 20;
 }
+.footer-section {
+  background-color: #c6e4d6;
+  margin-top: 40px;
+  text-align: center;
+  height: 300px;
+  border-radius: 15px;
+}
+.hed-container {
+  text-align: center;
+  padding-top: 55px;
+
+  width: 50%;
+  margin: auto;
+}
+.btn-mail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.btn-mail button {
+  background-color: #006a50;
+  padding: 13px 11px;
+
+  border: none;
+  color: white;
+  font-size: medium;
+  border-radius: 0px 10px 10px 0px;
+}
+.btn-mail input {
+  background-color: #f3fff9;
+  padding: 13px 11px;
+  border-radius: 10px 0 0 10px;
+  width: 500px;
+  border: 1px solid wheat;
+}
